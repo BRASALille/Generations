@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/geracoes/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/geracoes/static/js/main.390cece6.chunk.js",
+    "main.js.map": "/geracoes/static/js/main.390cece6.chunk.js.map",
+    "runtime-main.js": "/geracoes/static/js/runtime-main.52763151.js",
+    "runtime-main.js.map": "/geracoes/static/js/runtime-main.52763151.js.map",
+    "static/js/2.b9aaeffd.chunk.js": "/geracoes/static/js/2.b9aaeffd.chunk.js",
+    "static/js/2.b9aaeffd.chunk.js.map": "/geracoes/static/js/2.b9aaeffd.chunk.js.map",
+    "index.html": "/geracoes/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/geracoes/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.b9aaeffd.chunk.js.LICENSE.txt": "/geracoes/static/js/2.b9aaeffd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52763151.js",
+    "static/js/2.b9aaeffd.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.390cece6.chunk.js"
+  ]
+}
